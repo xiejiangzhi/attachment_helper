@@ -2,6 +2,8 @@
 
 Some Helper methods to generate url and get filename from attachment path
 
+[![Build Status](https://travis-ci.org/xiejiangzhi/attachment_helper.svg?branch=master)](https://travis-ci.org/xiejiangzhi/attachment_helper)
+
 ## Installation
 
 Add this line to your application's Gemfile:
