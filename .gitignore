@@ -13,3 +13,4 @@
 /spec/examples.txt
 
 *.swp
+*.gem
